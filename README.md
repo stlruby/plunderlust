@@ -3,6 +3,11 @@ plunderlust
 
 Have some door prizes to give away? Let plunderlust take control. Then you can blame us when it isn't fair.
 
+Attendees can register for an account with their Facebook, Twitter and GitHub credentials.
+Once registered, users can sign up for a door prize drawing.
+Then a winner can be randomly drawn.
+Extra credit is given to users giving a talk.
+
 How to Contribute
 =================
 
