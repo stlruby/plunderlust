@@ -3,6 +3,15 @@ plunderlust
 
 Have some door prizes to give away? Let plunderlust take control. Then you can blame us when it isn't fair.
 
+How to Contribute
+=================
+
+1. fork the repo
+2. create a topic branch
+3. complete your work
+4. create a pull request
+5. get two thumbs up
+6. PROFIT
 
 LICENSE
 =======
